@@ -1,8 +1,5 @@
 # 项目简介
 电商企业后台管理系统，包含了人员管理，权限管理，商品管理及订单管理。
-
-项目演示站点：[http://106.12.116.25](http://106.12.116.25)(密码暂不公开)
-
 所使用到的后端接口数据下载地址：[https://pan.baidu.com/s/1TMQDQA_upeIzx2gCepRr8Q](https://pan.baidu.com/s/1TMQDQA_upeIzx2gCepRr8Q)
 
 ## 项目框架及插件
